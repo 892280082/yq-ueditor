@@ -1,0 +1,29 @@
+{
+  "name": "yq-ueditor",
+  "version": "1.0.1",
+  "description": "nodejs express ueditor",
+  "dependencies": {
+    "busboy": "^0.2.9",
+    "fs-extra": "^0.11.0",
+    "node-snowflake": "0.0.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://892280082:a19921129zpf@github.com/892280082/yq-ueditor.git"
+  },
+  "keywords": [
+    "ueditor",
+    "nodejs",
+    "express"
+  ],
+  "author": "yq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/892280082/yq-ueditor/issues"
+  },
+  "homepage": "https://github.com/892280082/yq-ueditor#readme"
+}
